@@ -41,10 +41,13 @@ O desenvolvimento e a arquitetura deste projeto são assinados por:
 
 ### 📞 Conecte-se:
 
-[Image: LinkedIn Icon] LinkedIn: [linkedin.com/in/natan-correa-sec](https://www.linkedin.com/in/natan-correa-sec)
-[Image: Mail Icon] E-mail Profissional: [estudante731@gmail.com](mailto:estudante731@gmail.com)
-
+👤 **Natan Dias Corrêa**
+🔗 [LinkedIn](https://www.linkedin.com/in/natan-correa-sec) | 📧 [E-mail Profissional](mailto:estudante731@gmail.com)
 
 ---
-[![Vibrato Tech Solutions Banner](<img width="1584" height="396" alt="Banner sem numero de Celular" src="https://github.com/user-attachments/assets/0aa8de03-0e6a-4a3d-bb03-234f166a7cdc" />)](https://www.linkedin.com/in/natan-correa-sec)
-> This project is designed for portfolio and professional demonstration purposes. It highlights the integration of cybersecurity, GRC principles, and mobile software development.
+
+## 🏛️ Laboratório Vibrato Tech Solutions
+
+[![Vibrato Tech Solutions Banner](https://github.com/user-attachments/assets/0aa8de03-0e6a-4a3d-bb03-234f166a7cdc)](https://www.linkedin.com/in/natan-correa-sec)
+
+> *This project is designed for portfolio and professional demonstration purposes. It highlights the integration of cybersecurity, GRC principles, and mobile software development.*
