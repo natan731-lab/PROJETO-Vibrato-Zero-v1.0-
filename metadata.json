@@ -1,0 +1,5 @@
+{
+  "name": "PROJETO: Vibrato Zero",
+  "description": "PROJETO: Vibrato Zero (v1.0)\nSTATUS: Etapa 9/15 Concluída (Log de Auditoria).\n\nOBJETIVO GRC: Aplicativo Mobile-First de sanitização de dados (Secure Eraser) para conformidade com LGPD.\n\nLOGICA TÉCNICA: Sobrescrita de espaço livre via algoritmos (Zeros, Random, DoD 5220.22-M) com validação de integridade por Hash SHA-256.\n\nESTÉTICA: Vibrato Glass (Glassmorfismo, Neumorfismo, Paleta Verde/Azul/Branco sobre Fundo Dark).\n\nSTACK: React Native / Next.js (UI) + SQLite (Logs Locais) + Video Intro (MP4).\n\nDESENVOLVEDOR: Natan Dias Corrêa (Tecnólogo ADS / Especialista GRC).",
+  "requestFramePermissions": []
+}
