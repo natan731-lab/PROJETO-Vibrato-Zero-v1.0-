@@ -64,4 +64,7 @@ O **Vibrato Zero** foi implantado com sucesso e está operando em ambiente de pr
 
 [![Vibrato Tech Solutions Banner](https://github.com/user-attachments/assets/0aa8de03-0e6a-4a3d-bb03-234f166a7cdc)](https://www.linkedin.com/in/natan-correa-sec)
 
+https://github.com/user-attachments/assets/94fde880-30e2-4881-b40a-4f66a32f6ba3
+
+
 > *This project is designed for portfolio and professional demonstration purposes. It highlights the integration of cybersecurity, GRC principles, and mobile software development.*
